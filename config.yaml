@@ -1,0 +1,23 @@
+# iOSRealRun configuration
+# All values are optional — defaults are used for any missing keys.
+
+# Speed in meters per second (3.3 ≈ 11'52" / mile walking pace)
+speed: 3.3
+
+# Path to the route file (BD-09 coordinates from Baidu Maps)
+route_file: "route.txt"
+
+# Location-update interval in seconds
+dt: 0.2
+
+# Max random speed variation (± m/s equivalent applied each lap)
+speed_variation: 15.0
+
+# Perpendicular deviation for route randomisation (coordinate degrees)
+route_deviation: 0.000025
+
+# Tunnel startup timeout in seconds
+tunnel_timeout: 30.0
+
+# Enable debug logging
+debug: false
