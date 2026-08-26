@@ -1,7 +1,7 @@
 # ChuangGao-iOSRealRun-Simplified
 校园跑模拟工具，适用于创高体育(浙江大学(浙大体艺，据我了解就是创高体育换皮)、四川大学、南开大学)和其他iOS端的校园跑打卡软件
 
-**适用于各类运动打卡 App，只要你的校园跑软件有iOS端就可以使用**(原理是在 iOS 设备上模拟 GPS 移动)
+_**适用于各类运动打卡 App，只要你的校园跑软件有iOS端就可以使用**(原理是在 iOS 设备上模拟 GPS 移动)_
 
 通过 QUIC 隧道连接设备，沿着指定的路线循环发送 WGS-84 坐标。
 本项目是 [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) 的代码重构
