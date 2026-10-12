@@ -7,6 +7,11 @@ _**适用于各类运动打卡 App，只要你的校园跑软件有iOS端就可�
 本项目是 [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) 的代码重构
 底层使用 [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) 与 iOS 设备通信。
 
+## 运行截图
+<div align="center">
+	<img src=https://raw.githubusercontent.com/jhy354/READMEIMAGE/refs/heads/master/picture.png width=25% />
+</div>
+
 ## 简明使用教程(Windows)
 
 如果你懒得看完整个readme，可以直接：
